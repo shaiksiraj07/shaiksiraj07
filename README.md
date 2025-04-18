@@ -27,13 +27,13 @@ I'm a passionate and curious developer pursuing B.Tech in Information Technology
 ### 🛠️ Skills & Technologies
 
 #### 💻 Languages:
-`Java` `Python` `C++` `C` `JavaScript` `HTML` `CSS` `TypeScript`
+`Java` `Python` `C++` `C` `JavaScript` `HTML` `CSS` `TypeScript` `MySQL`
 
 #### 🧰 Frameworks & Libraries:
 `React.js` `Tailwind CSS` `Node.js` `Flask` `OpenCV` `YOLO`
 
 #### ☁️ Cloud & Tools:
-`AWS (Certified)` `MySQL` `GitHub` `Postman`
+`AWS (Certified)` `GitHub` `Postman`
 
 #### 💡 Soft Skills:
 `Leadership` `Adaptability` `Time Management` `Analytical Thinking`
