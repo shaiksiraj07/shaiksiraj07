@@ -8,9 +8,7 @@
   <a href="mailto:shaiksiraj.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://github.com/shaiksiraj07">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
@@ -47,6 +45,7 @@ I'm a passionate and curious developer pursuing B.Tech in Information Technology
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Sportz Buzz](https://github.com/shaiksiraj07/Sportz_Buzz) | A modern sports web app for live scores, streams & real-time updates. | React, TypeScript, Tailwind CSS |
+| [Whatsapp chat Analyzer](https://github.com/shaiksiraj07/Whatsapp-data-analyzer) |Whatsapp chat analyzer is uesd to get analytics of chat data like no of new joined people and active users from exported file of chat|React ,Tailwind CSS, python |
 | [Object Detection App](https://github.com/shaiksiraj07/Object-Detection-Using-YOLO--An-Integrated-Application) | Real-time object detection using YOLO via Flask, OpenCV | Python, Flask, YOLO, OpenCV |
 | [QR Code Generator & Reader](https://github.com/shaiksiraj07/QR-Code-Generator-and-Reader) | A desktop app to create & scan QR codes using Pyzbar & OpenCV. | Python, Pyzbar, OpenCV |
 
