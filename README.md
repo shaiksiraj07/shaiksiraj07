@@ -54,7 +54,7 @@ I'm a passionate and curious developer pursuing B.Tech in Information Technology
 
 **B.Tech in Information Technology**  
 _Nalla Narasimha Reddy Education Society’s Group of Institutions, Hyderabad_  
-📅 Dec 2021 – Jun 2025 | 📊 CGPA: 8.59 (Current)
+📅 Dec 2021 – Jun 2025 | 📊 CGPA: 8.59
 
 ---
 
