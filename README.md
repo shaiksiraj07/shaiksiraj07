@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Siraj</h1>
 <h3 align="center">Aspiring Full Stack Developer | Cloud Enthusiast | Passionate Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaiksiraj07&label=Profile%20Visits&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaik-siraj-a27785306/" target="_blank">
@@ -73,7 +71,9 @@ _Nalla Narasimha Reddy Education Society’s Group of Institutions, Hyderabad_
 📧 Email: shaiksiraj.it@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/shaik-siraj-a27785306](https://www.linkedin.com/in/shaik-siraj-a27785306)  
 👨‍💻 GitHub: [github.com/shaiksiraj07](https://github.com/shaiksiraj07)  
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaiksiraj07&label=Profile%20Visits&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
+</p>
 ---
 
 _“Code with passion. Build with purpose.”_
