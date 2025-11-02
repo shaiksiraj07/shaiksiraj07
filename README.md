@@ -17,7 +17,7 @@
 ### 🚀 About Me
 I'm a passionate and curious developer pursuing B.Tech in Information Technology at **NNRG, Hyderabad**. I love building modern full-stack applications, exploring cloud infrastructure with **AWS**, and applying AI to solve real-world problems.
 
-- 🔭 Currently working on: Emotion Detection App, WhatsApp Chat Analyzer  
+- 🔭 Currently working on: Java FullStack Skills  
 - 🌱 Exploring: Generative AI, Scalable Cloud Architectures  
 - 🎯 Goal: Become a well-rounded Software Engineer and Cloud Practitioner  
 - 💬 Ask me about: React, Node.js, Flask, Python, Java, AWS  
